@@ -5,7 +5,7 @@ Aquí se podrá encontrar toda la documentación del proyecto Black Market. Dent
 * Plan de Trabajo
 * Diagrama de Casos de Uso y sus especificaciones
 
-## Contrato SLA
+# Contrato SLA
 
 El Contrato SLA esta en el formato PDF. Para visualizarlo, solo haga click en Documentos y despues en el archivo Contrato SLA.  
 
