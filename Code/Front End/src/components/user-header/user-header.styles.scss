@@ -1,0 +1,21 @@
+.user-header {
+  position: fixed;
+  background-color: black;
+  width: 100vw;
+  height: 13vh;
+  display: flex;
+  justify-content: space-between;
+  .logo {
+    margin-left: 1em;
+    color: white;
+    font-family: Bebas Neue;
+    line-height: 1.7em;
+    font-size: 40pt;
+  }
+  .menu {
+    width: 40vw;
+    margin-right: 1em;
+    display: flex;
+    justify-content: space-around;
+  }
+}

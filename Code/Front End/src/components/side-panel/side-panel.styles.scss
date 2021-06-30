@@ -1,0 +1,17 @@
+.side-panel {
+  background-color: #516395;
+  height: 87vh;
+  width: 30vw;
+  color: white;
+  font-size: 25pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-family: Lato;
+  position: fixed;
+  margin-top: 13vh;
+  .options {
+    text-align: center;
+  }
+}

@@ -1,0 +1,28 @@
+.homepage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    .cover{
+        width: 40vw;
+        height: 100vh;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo{
+        color:white;
+        font-family: 'Bebas Neue';
+        font-size: 8em;
+        line-height: 0.9em;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 60vw;
+        background-image: url("../../assets/starry-night.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }        
+}

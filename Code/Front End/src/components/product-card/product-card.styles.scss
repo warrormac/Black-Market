@@ -1,0 +1,27 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  border-width: 1px;
+  border-color: #c4c4c4;
+  border-style: solid;
+  margin-bottom: 1em;
+  width: 50vw;
+  padding: 1em;
+  border-radius: 1em;
+
+  h2 {
+    margin-top: 0.25em;
+  }
+
+  .name-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50vw;
+  }
+
+  span {
+    color: #838181;
+    margin-bottom: 0.5em;
+  }
+}

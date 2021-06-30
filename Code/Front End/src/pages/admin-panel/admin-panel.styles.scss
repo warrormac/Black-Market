@@ -1,0 +1,22 @@
+.admin-panel{
+    .main-menu{
+        display: flex;
+        flex-direction: column;
+        .row-buttons{
+            display: flex;
+            justify-content: space-between;
+            margin: 2em;
+            .main-menu-button{
+                font-family: Bebas Neue;
+                font-size: 2em;
+                color: white;
+                background-color: black;
+                border: none;
+                width: 12em;
+                height: 6em;
+                border-radius: 1em;
+                cursor: pointer;
+            }
+        }
+    }
+}

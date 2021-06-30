@@ -1,0 +1,60 @@
+.add-content {
+  width: 100vw;
+  height: 100vh;
+
+  .new-product-data {
+    padding: 5em;
+    display: flex;
+    flex-wrap: wrap;
+    .main-data {
+      display: flex;
+      flex-wrap: wrap;
+      width: 50vw;
+      height: 40 vh;
+      justify-content: space-between;
+      .title-input {
+        width: 20em;
+        height: 3em;
+        border-radius: 1em;
+        border-color: black;
+      }
+      .author-input {
+        width: 20em;
+        height: 3em;
+        border-radius: 1em;
+        border-color: black;
+      }
+      .type-input {
+        width: 20em;
+        height: 3em;
+        border-radius: 1em;
+        border-color: black;
+      }
+      .category-input {
+        width: 20em;
+        height: 3em;
+        border-radius: 1em;
+        border-color: black;
+      }
+
+      .price-input {
+        width: 20em;
+        height: 3em;
+        border-radius: 1em;
+        border-color: black;
+      }
+    }
+    .description {
+      margin-left: 10em;
+    }
+    .description-input {
+      width: 20em;
+      height: 10em;
+      border-radius: 1em;
+      border-color: black;
+    }
+    label {
+      font-weight: 700;
+    }
+  }
+}

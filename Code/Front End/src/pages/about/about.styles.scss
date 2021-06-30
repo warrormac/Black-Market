@@ -1,0 +1,16 @@
+.main-content {
+  display: flex;
+  font-family: Lato;
+  .about-content {
+    margin-left: 30vw;
+    margin-top: 15vh;
+    width: 60vw;
+    height: 87vh;
+    padding: 3em;
+    p {
+      font-family: sans-serif;
+      font-size: 22pt;
+      line-height: 1.4em;
+    }
+  }
+}
